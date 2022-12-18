@@ -1,4 +1,4 @@
-# Final Projec Mata Kuliah Arsitektur dan Integrasi Sistem
+# Final Project Mata Kuliah Arsitektur dan Integrasi Sistem
 Repositori ini berisikan dokumentasi pengerjaan Final Project Mata Kuliah Arsitektur dan Integrasi Sistem. 
 
 Integrasi aplikasi yang kami bawakan adalah Go-Send x Go-Pay
